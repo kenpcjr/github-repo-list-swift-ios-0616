@@ -31,4 +31,4 @@ build/
 .build/
 
 # Secrets
-Secrets.swift
+Secret.swift
